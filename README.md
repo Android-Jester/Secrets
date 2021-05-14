@@ -1,16 +1,7 @@
-# secrets
+<h2 align="center"><b>Secrets</b></h2>
+<h4 align="center">Just an android App that allows you to encode your message in a special format, I think</h4>
 
-A new Flutter application.
+<h4>Made by Android-Jester and </h4>
+<b>WARNING: THIS IS A BETA VERSION, THEREFORE YOU MAY ENCOUNTER BUGS. IF YOU DO, OPEN AN ISSUE VIA THE GITHUB REPOSITORY.</b>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download the app: https://play.google.com/store/apps/details?id=com.wrtnspknbrkn.secrets
